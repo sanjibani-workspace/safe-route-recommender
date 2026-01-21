@@ -1,5 +1,9 @@
 # Safe Route Recommender
 
+**Live Demo:** [https://safe-route-recommender.vercel.app/](https://safe-route-recommender.vercel.app/)
+
+![App Screenshot](docs/app_screenshot.png)
+
 MVP for a routing engine that prioritizes safety based on crime, lighting, and traffic data.
 
 ## Project Structure
